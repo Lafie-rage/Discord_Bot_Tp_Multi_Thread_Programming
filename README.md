@@ -9,3 +9,7 @@ Make sure to replace **TOKEN_BOT** with your bot token in the makefile.
 ----
 ## Usage
 Execute the make file in a terminal located in src/.
+
+----
+## References
+You can check out my [GitHub](https://github.com/Lafie-rage/Discord_Bot_Tp_Multi_Thread_Programming) right here.
